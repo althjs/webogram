@@ -19,8 +19,8 @@ Config = window.Config || {};
 */
 
 Config.App = {
-  id: 2496,
-  hash: '8da85b0d5bfe62527e5b244c209159c3',
+  id: 18919,
+  hash: '6a7df7e2e3621779cb4dc06a5f1796c0',
   version: '0.3.2'
 };
 
